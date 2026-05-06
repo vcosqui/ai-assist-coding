@@ -1,6 +1,6 @@
 ---
 name: adr-workflow
-description: Issue-first development workflow with mandatory ADR documentation. Use when starting any feature, fix, or non-functional change. Enforces: issue reference → ADR REASON before code → branch → explore → plan → ATDD → implement → complete ADR → commit.
+description: "Issue-first development workflow with mandatory ADR documentation. Use when starting any feature, fix, or non-functional change. Steps: issue reference, ADR REASON before code, branch, explore, plan, ATDD, implement, complete ADR, commit."
 argument-hint: "[brief description of what to build or fix]"
 ---
 
