@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    {
+      "name": "reasons-canvas",
+      "source": "../skills/reasons-canvas",
+      "description": "REASONS planning canvas — walks through Requirements, Entities, Approach, Structure, Operations, Norms, Safeguards before any code is written.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "adr-workflow",
+      "source": "../skills/adr-workflow",
+      "description": "Issue-first development workflow: GitHub issue → ADR (REASON first) → branch → explore → plan → ATDD → implement → complete ADR → commit.",
+      "version": "1.0.0"
+    }
+  ]
+}
